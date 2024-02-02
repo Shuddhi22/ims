@@ -1,0 +1,175 @@
+.desktop {
+    background-color: #050b3c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #050b3c;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    width: 322px;
+    top: 169px;
+    left: 158px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    height: 28px;
+    top: 193px;
+    left: 960px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .contact {
+    position: absolute;
+    top: 193px;
+    left: 1069px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    top: 193px;
+    left: 1210px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 470px;
+    height: 360px;
+    top: 400px;
+    left: 485px;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 29px;
+    left: 70px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    width: 150px;
+    top: 135px;
+    left: 61px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    top: 243px;
+    left: 143px;
+    background-color: #779ebb;
+    border-radius: 37px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .desktop .BUTTON {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    top: 16px;
+    left: 31px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #000000;
+    font-size: 23px;
+    text-align: center;
+    letter-spacing: 8.51px;
+    line-height: normal;
+  }
+  
+  .desktop .CONTENT {
+    position: absolute;
+    width: 359px;
+    height: 34px;
+    top: 91px;
+    left: 70px;
+    /*background-color: #a8b7bb;*/
+    
+}
+  
+  
+  .desktop .CONTENT-2 {
+    position: absolute;
+    width: 359px;
+    height: 38px;
+    top: 184px;
+    left: 70px;
+    /*background-color: #a9cce0;*/
+    
+}
+  
+  .desktop .srch {
+    position: absolute;
+    width: 301px;
+    height: 39px;
+  }
+ .btnn{
+  position: absolute;
+    width: 301px;
+    height: 39px;
+    margin-top: 264px;
+    margin-left: 70px;
+ }
